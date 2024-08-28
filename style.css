@@ -8,7 +8,7 @@ body {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #b8b0b0;
 }
 
 .topo {
@@ -18,7 +18,7 @@ body {
 .btn {
     display: block;
     margin-top: 10px;
-    background-color: #007bff;
+    background-color: #c6d3e0;
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
