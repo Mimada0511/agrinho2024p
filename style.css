@@ -27,6 +27,7 @@ body {
 .produtos {
     display: flex;
     justify-content: space-around;
+    padding: right 50px;
 }
 
 .produtos img {
