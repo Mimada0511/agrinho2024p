@@ -28,6 +28,11 @@ body {
     display: flex;
     justify-content: space-around;
     padding: right 50px;
+    width: ;
+}
+
+.produtos feijão{
+    width: 30%;
 }
 
 .produtos img {
