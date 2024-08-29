@@ -13,7 +13,7 @@ body {
     max-width: 900px;
     margin: 20px auto;
     padding: 20px;
-    border: 4px;
+    border: 1px;
 }
 
 .topo {
@@ -42,7 +42,7 @@ body {
 }
 
 .contatos {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 .contatos h2 {
