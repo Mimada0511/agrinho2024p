@@ -63,5 +63,6 @@ ul li img {
 
 
 {
-    footer text-align: center;
+    .footer
+     text-align: center;
 }
